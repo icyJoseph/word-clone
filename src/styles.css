@@ -185,6 +185,12 @@ h1 {
   color: white;
 }
 
+.play-again {
+  margin-top: 1rem;
+  padding: 0.5em 1em;
+  border: 2px solid white;
+}
+
 .visually-hidden {
   position: absolute;
   overflow: hidden;
